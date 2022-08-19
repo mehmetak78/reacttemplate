@@ -1,0 +1,7 @@
+
+export const ADD_SAMPLE_MESSAGE = "ADD_SAMPLE_MESSAGE";
+export const GET_POST_MESSAGES = "GET_POST_MESSAGES";
+export const ADD_ERROR = "ADD_ERROR";
+export const REMOVE_ERROR = "REMOVE_ERROR";
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
